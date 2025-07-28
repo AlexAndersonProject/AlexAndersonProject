@@ -14,10 +14,12 @@ Skilled in both manual and automated testing of web and mobile apps with a stron
 
 ## 🔧 Tools I Use
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium)
 ![Playwright](https://img.shields.io/badge/Playwright-2D2D2D?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Appium](https://img.shields.io/badge/Appium-00A3E0?style=for-the-badge&logo=appium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-6e46ae?style=for-the-badge)
 
 ---
 
