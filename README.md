@@ -22,7 +22,6 @@ Skilled in both manual and automated testing of web and mobile apps with a stron
 ---
 
 ## 📬 Let’s Connect!
-📧 alexander.v.anderson@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/alex-resume)
 
 ---
