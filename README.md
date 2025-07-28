@@ -5,9 +5,7 @@
 I’m passionate about improving product quality through efficient, reliable, and scalable automation testing.  
 Skilled in both manual and automated testing of web and mobile apps with a strong background in:
 
-- 🧪 Selenium, Playwright, Cypress, REST Assured
-- 🧰 Java, JavaScript, Python
-- 🧠 API Testing, CI/CD, SQL, JIRA
+- 🧠 UI, Web, Mobile, API, SQL, CI/CD, SQL
 - 🧑‍💻 Agile teams & cross-functional collaboration
 
 ---
