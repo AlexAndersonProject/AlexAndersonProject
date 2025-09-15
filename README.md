@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Alex Anderson!
+# 👋 Hi there, I'm Alex A!
 
-## 💻 QA Automation Engineer | Software Tester
+## 💻 Test Engineer
 
 I’m passionate about improving product quality through efficient, reliable, and scalable automation testing.  
 Skilled in both manual and automated testing of web and mobile apps with a strong background in:
